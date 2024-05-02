@@ -1,5 +1,5 @@
-# Challenge: xxx
-## Champions:	
+# Challenge: Bochum goes LBD
+## Champions:	Sven Zentgraf
 
 ## Number of people per team: 
 4-5
