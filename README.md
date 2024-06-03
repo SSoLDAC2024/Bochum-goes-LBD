@@ -8,9 +8,7 @@ Sven Zentgraf
 ## Anticipated workload:
 approx. 24 hours per person, including the time for preparation of the presentation
 
-## Challenge description:
-
-## Challenger research questions:
+## Challenger descriptions and research questions:
 1. Mapping of the data model from point 1 as an ontology. Conversion of the data in Excel into 
 instances of the previously created ontology. Creation of a set of SPARQL queries for querying and 
 manipulating the data. 
@@ -47,11 +45,7 @@ data, and much more. This information can be used for planning, environmental pr
 education, and research, among other things, to gain a better understanding of the geographical 
 structure and current situation in NRW
 
-
-## Challenge instructions:
-
-visualization: 
-
 ## Tools needed:
+See above
 
 ## References: 
